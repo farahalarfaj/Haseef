@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Haseef</string>
+    <string name="title_activity_tabbedproduct">tabbedproduct</string>
+    <string name="tab_text_1">Dairy products</string>
+    <string name="tab_text_2">Juices</string>
+    <string name="title_activity_tabbed_restock">tabbedRestock</string>
+    <string name="tab_1">Dairy products</string>
+    <string name="tab_2">Juices</string>
+</resources>
